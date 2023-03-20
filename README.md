@@ -1,16 +1,14 @@
-```
- __  __                        __             
-/\ \/\ \                      /\ \__          
-\ \ \/'/'  _ __    __     __  \ \ ,_\   ___   
- \ \ , <  /\`'__\/'__`\ /'__`\ \ \ \/  / __`\ 
-  \ \ \\`\\ \ \//\  __//\ \ \.\_\ \ \_/\ \ \ \
-   \ \_\ \_\ \_\\ \____\ \__/.\_\\ \__\ \____/
-    \/_/\/_/\/_/ \/____/\/__/\/_/ \/__/\/___/
-```
-Linux System Administrator, Free Software advocate
+# Building things for a tinkerer, by a tinkerer
+I am a novice programmer, Linux System Administrator and a Free Software advocate.
+I build tools/general software aimed at the tinkerer. 
+I am the founder of [Kreato Linux](https://linux.kreato.dev) and i also made multiple smaller projects.
 
-# Languages
+# Languages i know
 * Nim
-* C
 * POSIX sh
 * Python
+
+
+# Contact
+Contact me on Discord (Kreato#1337) or [Matrix](https://matrix.to/#/@kreato:kreato.dev).
+
