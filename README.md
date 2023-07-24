@@ -16,5 +16,5 @@ I use Nim for most tasks.
 Tools i use change overtime.
 
 # Contact
-Contact me on Discord (Kreato#1337) or [on email](mailto:kreato@kreato.dev) 
-
+Contact me on Matrix (@kreato:kreato.dev), Discord (@kreatoo) or [on email](mailto:kreato@kreato.dev) 
+I also have a Fediverse account which you can ask questions in a public manner (@kreato@kreato.dev)
