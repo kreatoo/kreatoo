@@ -11,7 +11,7 @@ I am the founder of [Kreato Linux](https://linux.kreato.dev) and i also made mul
 I use Nim for most tasks.
 
 # Tools i know or/and use
-[![Tools i know/use](https://skillicons.dev/icons?i=linux,git,github,neovim,vim,visualstudio,vscode,stackoverflow,kubernetes,ghactions,ansible,gitlab,bsd,cloudflare,docker,discord,azure,gcp,linkedin,heroku,emacs)](https://skillicons.dev)
+[![Tools i know/use](https://skillicons.dev/icons?i=linux,git,github,neovim,vim,kubernetes,ghactions,terraform,ansible,visualstudio,vscode,stackoverflow,gitlab,bsd,cloudflare,docker,discord,azure,gcp,linkedin,heroku,emacs)](https://skillicons.dev)
 
 Tools i use change overtime.
 
