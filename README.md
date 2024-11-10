@@ -11,7 +11,7 @@ I am the founder of [Kreato Linux](https://linux.kreato.dev) and i also made mul
 I use Nim for most tasks.
 
 # Tools i know or/and use
-[![Tools i know/use](https://skillicons.dev/icons?i=linux,windows,apple,bsd,git,github,neovim,vim,kubernetes,ghactions,terraform,ansible,visualstudio,vscode,stackoverflow,gitlab,cloudflare,docker,discord,azure,gcp,linkedin,heroku,emacs)](https://skillicons.dev)
+[![Tools i know/use](https://skillicons.dev/icons?i=linux,windows,apple,nix,bsd,git,github,neovim,vim,kubernetes,ghactions,terraform,ansible,visualstudio,vscode,stackoverflow,gitlab,cloudflare,docker,discord,azure,gcp,linkedin,heroku,emacs)](https://skillicons.dev)
 
 Tools I use on my computers change overtime. I currently use Kubernetes and Tailscale to manage my servers.
 
