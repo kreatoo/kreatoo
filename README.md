@@ -6,7 +6,7 @@ I build tools/general software aimed at the tinkerer.
 I am the founder of [Kreato Linux](https://linux.kreato.dev) and i also made multiple smaller projects including (but not limited to) [krtrl](https://github.com/krtrl), [simplebox](https://github.com/kreatosuserland/simplebox) and more!
 
 # Languages i know
-[![Languages i know](https://skillicons.dev/icons?i=nim,bash,python,go,md,html,css,sass,lua,powershell,svelte)](https://skillicons.dev)
+[![Languages i know](https://skillicons.dev/icons?i=nim,go,bash,python,md,html,css,sass,lua,powershell,svelte)](https://skillicons.dev)
 
 I use Nim for most tasks.
 
