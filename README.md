@@ -8,7 +8,7 @@ I am the founder of [Kreato Linux](https://linux.kreato.dev) and i also made mul
 # Languages i know
 [![Languages i know](https://skillicons.dev/icons?i=nim,go,bash,python,md,html,css,sass,lua,powershell,svelte)](https://skillicons.dev)
 
-I use Nim for most tasks.
+I use Nim and Go for most tasks.
 
 # Tools i know or/and use
 [![Tools i know/use](https://skillicons.dev/icons?i=linux,windows,apple,nix,bsd,git,github,neovim,vim,kubernetes,ghactions,terraform,ansible,visualstudio,vscode,stackoverflow,gitlab,cloudflare,docker,discord,azure,gcp,linkedin,heroku,emacs)](https://skillicons.dev)
