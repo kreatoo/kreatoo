@@ -16,4 +16,4 @@ I use Nim and Go for most tasks.
 Tools I use on my computers change overtime. I currently use Kubernetes and Tailscale to manage my servers.
 
 # Contact
-Contact me on Discord (@kreatoo) or [on email](mailto:kreato@kreato.dev).
+Contact me on Discord (@kreatoo) or [on email](mailto:hello@krea.to).
