@@ -13,7 +13,7 @@ I use Nim and Go for most tasks.
 # Tools I know or/and use
 [![Tools I know/use](https://skillicons.dev/icons?i=linux,windows,apple,kubernetes,ansible,nix,bsd,git,github,neovim,vim,ghactions,terraform,visualstudio,vscode,stackoverflow,gitlab,cloudflare,docker,discord,azure,gcp,linkedin,heroku,emacs)](https://skillicons.dev)
 
-Tools I use on my computers change overtime. I currently use Kubernetes and Tailscale to manage my servers.
+Tools I use on my computers change overtime.
 
 # Contact
 Contact me on Discord (@kreatoo) or [on email](mailto:hello@krea.to).
